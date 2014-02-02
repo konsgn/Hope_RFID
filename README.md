@@ -1,5 +1,6 @@
 HOPE RFID reader.
-Konstantin
+
+By:Konstantin
 
 Scans EM tags using a ATMEGA32u4.
 Has usb for computer connection
